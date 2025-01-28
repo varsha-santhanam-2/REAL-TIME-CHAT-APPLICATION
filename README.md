@@ -29,4 +29,4 @@ Responsive Design:
 The application is fully responsive, ensuring that it functions flawlessly on both desktop and mobile devices. Whether users are chatting from their laptops, tablets, or smartphones, they can enjoy the same seamless experience.
 OUTPUT:
 
-
+![Image](https://github.com/user-attachments/assets/a0d34e9b-d08e-426c-b651-88f6f4b5646b)
